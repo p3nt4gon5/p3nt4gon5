@@ -1,16 +1,18 @@
-## Hi there 👋
+# Привет, я P3nt4gon! 👋  
+💻 Разработчик | Изучаю новые технологии и создаю крутые проекты  
 
-<!--
-**p3nt4gon5/p3nt4gon5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Навыки:
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** C, C++, Python, PHP  
+- **Базы данных:** MS SQL Server, MySQL, Oracle  
+- **Изучаю:** Java, C#, React, Solidity  
 
-Here are some ideas to get you started:
+## 🔥 Интересы:
+- Разработка веб-приложений  
+- Блокчейн и смарт-контракты  
+- Алгоритмы и структуры данных  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Связаться со мной:
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/p3nt4gon)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
