@@ -8,32 +8,32 @@
 
 ---
 
-## 🚀 Обо мне:
-- 💻 **Разработчик**, создаю **инновационные проекты**  
-- 📚 Постоянно изучаю новые технологии  
-- 🔥 Увлекаюсь **блокчейном, алгоритмами и кибербезопасностью**  
+## 🚀 About me:
+- 💻 **Developer**, I create **innovative projects**  
+- 📚 I am constantly learning new technologies  
+- 🔥 I am passionate about **blockchain, algorithms and cybersecurity**
+- 
 
-📌 **"Пиши код так, как будто его будет поддерживать маньяк, который знает, где ты живешь!"**  
-
+📌 **"Write code as if it would be maintained by a maniac who knows where you live!"**
 ---
 
-## 🛠️ Технологический стек:
+## 🛠️ Technology stack:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,php,cpp,java,solidity,csharp,mysql,postgresql,sqlite,git,linux" />
 </p>
 
 ---
 
-## 🔥 Мои интересы:
-📍 **Frontend** → Адаптивный UI, UX-дизайн  
-📍 **Backend** → Высоконагруженные системы, API  
-📍 **Блокчейн** → Cмарт-контракты, NFT, DeFi  
-📍 **AI & ML** → Машинное обучение, ChatGPT API  
-📍 **Кибербезопасность** → Этичный хакинг, защита данных  
+## 🔥 My interests:
+📍 **Frontend** → Adaptive UI, UX design  
+📍 **Backend** → High-load systems, API  
+📍 **Blockchain** → Smart contracts, NFT, DeFi  
+📍 **AI & ML** → Machine learning, ChatGPT API  
+📍 **Cybersecurity** → Ethical hacking, data protection
 
 ---
 
-## 📊 GitHub Статистика:
+## 📊 GitHub Statistics:
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=p3nt4gon5&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
@@ -44,7 +44,7 @@
 
 ---
 
-## 🌍 Где меня найти?
+## 🌍 Where can you find me?
 <p align="center">
   <a href="https://t.me/p3nt4gon">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
