@@ -36,7 +36,6 @@
 ## 📊 GitHub Статистика:
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=p3nt4gon5&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=p3nt4gon5&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -57,8 +56,5 @@
 
 ---
 
-## 🏆 Веселье на GitHub:
-<p align="center">
-  <img src="https://github.com/p3nt4gon5/p3nt4gon5/blob/output/github-contribution-grid-snake.svg" />
-</p>
+
 
