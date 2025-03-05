@@ -19,7 +19,7 @@
 
 ## 🛠️ Technology stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,php,cpp,с,java,solidity,csharp,mysql,postgresql,sqlite,git,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,php,cpp,java,solidity,csharp,mysql,postgresql,sqlite,git,linux" />
 </p>
 
 ---
