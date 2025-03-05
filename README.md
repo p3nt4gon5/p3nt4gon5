@@ -12,7 +12,7 @@
 - 💻 **Developer**, I create **innovative projects**  
 - 📚 I am constantly learning new technologies  
 - 🔥 I am passionate about **blockchain, algorithms and cybersecurity**
-- 
+  
 
 📌 **"Write code as if it would be maintained by a maniac who knows where you live!"**
 ---
